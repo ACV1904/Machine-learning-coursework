@@ -6,7 +6,7 @@ https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/rev
 
 The dataset includes the indices of Debit card transaction data. 
 
-The following tasks are explained in the [report](https://github.com/ACV1904/Machine-learning-coursework/edit/main/Report-ACV.pdf)
+The following tasks are explained in the [report](https://github.com/ACV1904/Machine-learning-coursework/Report-ACV.pdf)
 1. Exploratory Data Analysis (EDA)
 2. Data Pre-processing
 3. Supervised ML algorithm: Prediction
@@ -15,4 +15,4 @@ The following tasks are explained in the [report](https://github.com/ACV1904/Mac
    Logistic regression, Naive Bayes, Decision trees
 5. Unsupervised ML algorithm. K-means
 
-All visualisations and code are in the jupyter [file](https://github.com/ACV1904/Machine-learning-coursework/edit/main/Code-ML-CW.ipynb)
+All visualisations and code are in the jupyter [file](https://github.com/ACV1904/Machine-learning-coursework/Code-ML-CW.ipynb)
